@@ -1,1 +1,13 @@
-
+# Git in my own words
+## What is git
+Git is an open-source, distributed version control system. It is a command-line tool that tracks changes in source code and other files.
+## What I am curious about
+Im curious about how the whole thing works, like the tech behind it and stuff. 
+## Key terms and definitions 
+* Git-a free, open-source, distributed version control system
+* Github- open-source distributed version control system.
+* Repository- Something that holds stuff
+* Cloning- creating an identical or very similar copy of an existing website, either by replicating a successful concept to build a new venture, or by making a functional copy of one's own site for various purposes like testing, backup, or migration
+* Commits-an action taken within a version control system, like Git, to permanently record changes made to the project's codebase
+* Push- permission-based alert messages sent from a website to a user's device
+* Branches-  parallel version of a website project that allows a designer or team to work on new features, bug fixes, or experiments in isolation from the main codebase
